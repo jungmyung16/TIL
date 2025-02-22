@@ -12,4 +12,4 @@
 
 ## JAVA
 
-- [JVM, JRE, JDK들의 개념]()
+- [JVM, JRE, JDK들의 개념](https://github.com/jungmyung16/TIL/blob/main/JAVA/JVM%2C%20JRE%2C%20JDK%EB%93%A4%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
