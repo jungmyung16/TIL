@@ -20,3 +20,7 @@
 ## OOP
 
 - [객체지향의 사실과 오해](https://github.com/jungmyung16/TIL/blob/main/OOP/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
+
+## Database
+
+- [기본적인 sql문 정리](https://github.com/jungmyung16/TIL/blob/main/Database/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20sql%EB%AC%B8%20%EC%A0%95%EB%A6%AC.md)
