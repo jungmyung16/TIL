@@ -24,3 +24,7 @@
 ## Database
 
 - [기본적인 sql문 정리](https://github.com/jungmyung16/TIL/blob/main/Database/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20sql%EB%AC%B8%20%EC%A0%95%EB%A6%AC.md)
+
+## Web/Security
+
+- [세션과 쿠키 보안 이슈 정리](https://github.com/jungmyung16/TIL/blob/main/Web/Security/Session%26Cookie.md)
