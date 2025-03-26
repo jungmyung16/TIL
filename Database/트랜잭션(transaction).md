@@ -65,6 +65,8 @@ VALUES ('Alice', 1000),  -- Alice 계좌, 잔액 1000원
        ('Bob', 500);     -- Bob 계좌, 잔액 500원
 ```
 
+![Image](https://github.com/user-attachments/assets/60cdf419-59ba-42ff-8318-afc94226742d)
+
 ---
 
 ### (2) 트랜잭션을 이용한 이체 실습 SQL 예제
@@ -93,6 +95,8 @@ COMMIT;
 -- 만약 작업 중 오류가 발생하거나 결과가 원치 않으면 작업 취소
 -- ROLLBACK; (오류 발생 시 사용)
 ```
+
+![Image](https://github.com/user-attachments/assets/7bfaeae0-cd6a-45db-b213-18df85bf33be)
 
 ---
 
