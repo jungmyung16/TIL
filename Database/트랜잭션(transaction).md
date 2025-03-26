@@ -16,14 +16,14 @@
 > ② B 계좌에 금액 추가  
 > 두 작업 모두 성공해야만 트랜잭션이 완료되며, 하나라도 실패하면 처음 상태로 되돌아가야 함.
 
----
+## ![Image](https://github.com/user-attachments/assets/9d809f29-4aca-4590-b123-a55550225614)
 
 ## 트랜잭션의 4가지 핵심 특성(ACID)
 
 ### ① 원자성(Atomicity)
 
 - 트랜잭션의 모든 작업이 완벽히 수행되거나 전혀 수행되지 않아야 하는 성질
-- 중간 단계가 존재하지 않음(**All or Nothing**)
+- 중간 단계가 존재하지 않음
 - **은행 예시:** 이체 시 돈이 빠져나갔는데 상대방 계좌에 들어가지 않은 상황이 발생하면 안 됨.
 
 ### ② 일관성(Consistency)
@@ -43,6 +43,7 @@
 - 트랜잭션이 정상적으로 완료(COMMIT)된 후 그 결과가 영구적으로 보장되어야 하는 성질
 - 완료된 작업은 시스템이 종료되거나 장애가 발생해도 반드시 유지되어야 함.
 - **은행 예시:** 고객이 송금 완료 후 은행 시스템이 갑자기 종료되더라도 이미 송금된 금액은 정상적으로 유지되어야 함.
+  ![Image](https://github.com/user-attachments/assets/99c246b7-13fb-4ca8-8062-20a1f61a3c71)
 
 ---
 
@@ -107,3 +108,4 @@ COMMIT;
 - **시작:** `START TRANSACTION`
 - **완료(성공 시):** `COMMIT`
 - **취소(실패 시):** `ROLLBACK`
+  ![Image](https://github.com/user-attachments/assets/442ab008-fcf8-46c1-903e-0f76ba0e473d)
