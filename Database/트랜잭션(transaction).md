@@ -108,4 +108,5 @@ COMMIT;
 - **시작:** `START TRANSACTION`
 - **완료(성공 시):** `COMMIT`
 - **취소(실패 시):** `ROLLBACK`
+
   ![Image](https://github.com/user-attachments/assets/442ab008-fcf8-46c1-903e-0f76ba0e473d)
