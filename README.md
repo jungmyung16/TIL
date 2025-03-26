@@ -27,6 +27,8 @@
 
 - [데이터베이스 선택 가이드](https://github.com/jungmyung16/TIL/blob/main/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A0%ED%83%9D%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
 
+- [트랜잭션](<https://github.com/jungmyung16/TIL/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(transaction).md)
+
 ## Web/Security
 
 - [세션과 쿠키 보안 이슈 정리](https://github.com/jungmyung16/TIL/blob/main/Web/Security/Session%26Cookie.md)
