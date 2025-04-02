@@ -10,7 +10,7 @@
 
 ## Spring
 
-- [스프링 프레임워크(Spring Framework)와 스프링 부트(Spring Boot)의 차이점]()
+- [스프링 프레임워크(Spring Framework)와 스프링 부트(Spring Boot)의 차이점](https://github.com/jungmyung16/TIL/blob/main/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC(Spring%20Framework)%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8(Spring%20Boot)%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 ## JAVA
 
